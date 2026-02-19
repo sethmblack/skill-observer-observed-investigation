@@ -3,8 +3,9 @@ name: observer-observed-investigation
 description: Dissolve the illusion of internal division between the one who struggles and what is struggled against - revealing that the observer and the observed are not separate, and that this seeing ends psy...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.4593
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - observer-observed-investigation
 - transformation
