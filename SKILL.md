@@ -4,7 +4,7 @@ description: Dissolve the illusion of internal division between the one who stru
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4593
+  version: 1.0.4594
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - observer-observed-investigation
